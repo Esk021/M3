@@ -1,0 +1,103 @@
+* {
+ box-sizing: border-box;
+ font-family: Verdana, Geneva, sans-serif;
+ }
+
+
+h1{text-align: center;}
+
+.row {
+ width: 100%;
+}
+
+section {
+ float: left;
+}
+
+section > div {
+
+margin-left: 20px;
+margin-right: 20px;
+margin-bottom:40px;
+background: lightgrey;
+border: 3px solid black;
+}
+
+.A {
+width: 200px;
+ border-left: 3px solid black;
+ border-bottom: 3px solid black;
+
+ float:right;
+  margin: 0px;
+}
+
+h2{
+
+margin:10px;
+ text-align: center;
+
+
+}
+
+p {
+ padding:20px;
+  margin: 0px;
+  margin-top: 40px;
+}
+
+.chicken{
+	background: #F9E79F;
+}
+.beef{
+	background: #E74C3C;
+}
+.sushi{
+	background: #5DADE2;
+}
+
+.navbar-brand {
+  color: #FFFFFF;
+}
+
+#header-nav {
+  border: 0;
+  background-color: #333;
+  color: #FFFFFF;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.nav-header {
+  background-color: #FFFFFF;
+}
+
+.nav-brand {
+  color: #FFFFFF;
+}
+
+#nav-list {
+  color: white;
+}
+
+hr {
+  border-color: white;
+}
+
+.item {
+  color: white;
+
+}
+
+.tlak {
+
+
+ float:right;
+  margin-top: 75px;
+}
